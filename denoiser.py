@@ -21,6 +21,7 @@
 # with a specified noisy image, and the denoised #
 # image is written to a PNG                      #
 ##################################################
+# some small change                              #
 
 from PIL import Image
 import numpy as np
